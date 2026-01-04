@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/mnopuev/serverless:latest
+          tags: ghcr.io/KuzmaZuev/serverless:latest
